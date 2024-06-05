@@ -1441,7 +1441,7 @@ header {
   .hero-mobile {
     bottom: -10px;
     inset-inline-end: -48px;
-    width: 320px;
+    width: 350px;
   }
 }
 .client-reviews {
